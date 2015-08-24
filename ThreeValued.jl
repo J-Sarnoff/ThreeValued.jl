@@ -11,7 +11,7 @@ import Base:convert, promote_rule, show, showcompact,
             (===), (!=), (.==)
 
 export True, Maybe, False,
-       unk,tru,fal,not,and,or,xor,imp,
+       unk,tru,fal,not,and,or,xor,imp,(→),
        ltn,lte,gte,gtn,eql,neq,
        logictable
 
