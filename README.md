@@ -1,5 +1,5 @@
 ## ThreeValued.jl
-####3-valued logic (False, Maybe, True)
+#####table driven 3-valued logic
 
 ```julia
 
