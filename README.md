@@ -1,5 +1,7 @@
 ## ThreeValued.jl
-#####table driven 3-valued logic
+#####Three-valued logic -- covers basic ops, goes fast
+######_(alter the tables to modify the logic)_
+
 
 ```julia
 
