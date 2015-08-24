@@ -20,7 +20,7 @@ True
 |  not | negates             | and     | &     |
 |  unk | True iff Maybe      | or      | \|   |
 |  tru | push Maybe to True  | xor     | $     |
-|  fal | push Maybe to False | imp     | \rightarrow |
+|  fal | push Maybe to False | imp     | → |
 
 
 --------------------------------------
